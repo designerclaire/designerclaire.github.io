@@ -1,0 +1,1443 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:500');
+
+@font-face {
+                          font-family: "LexendDeca-Regular";
+                          src: url('../fonts/LexendDeca-Regular.ttf') format("truetype");
+                        }
+                        
+.bp1-aboutclaire {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1248px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-aboutclaire .bp1-aboutimg1258 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 54.00%;
+  top                 : 114px;
+  height              : 258px;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-aboutclaire .bp1-claireisauxdesig {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : auto;
+  width               : 30.00%;
+  position            : absolute;
+  margin              : 0;
+  left                : 50.00%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(44, 44, 44, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.bp1-aboutclaire .bp1-claireisauxdesig .bp1-span1 {
+  line-height         : 45.0px;
+}
+.bp1-aboutclaire .bp1-claireisauxdesig .bp1-span2 {
+  font-family         : "AppleColorEmoji", Helvetica, Arial, serif;
+  line-height         : 47.0px;
+}
+.bp1-aboutclaire .bp1-asadesignermyin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : auto;
+  width               : 30.00%;
+  position            : absolute;
+  margin              : 0;
+  left                : 50.00%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(44, 44, 44, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-aboutclaire .bp1-stackedgroup {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : row;
+  align-items         : center;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 496px;
+  height              : 35px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50.00%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-aboutclaire .bp1-stackedgroup .bp1-groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 35px;
+  margin              : 0;
+  width               : 93px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.bp1-aboutclaire .bp1-stackedgroup .bp1-groupcopy:hover {
+  filter              : hue-rotate(40deg);
+}
+.bp1-aboutclaire .bp1-stackedgroup .bp1-groupcopy .bp1-resum351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(182, 128, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-aboutclaire .bp1-stackedgroup .bp1-groupcopy .bp1-rectangle {
+  background-color    : rgba(182, 128, 255, 1.0);
+  top                 : 31px;
+  height              : 4px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-aboutclaire .bp1-stackedgroup .bp1-group {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 35px;
+  margin              : 0 0 0 24px;
+  width               : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.bp1-aboutclaire .bp1-stackedgroup .bp1-group:hover {
+  filter              : hue-rotate(40deg);
+}
+.bp1-aboutclaire .bp1-stackedgroup .bp1-group .bp1-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(182, 128, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-aboutclaire .bp1-stackedgroup .bp1-group .bp1-rectangle {
+  background-color    : rgba(182, 128, 255, 1.0);
+  top                 : 31px;
+  height              : 4px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-aboutclaire .bp1-footer {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0px;
+  height              : 122px;
+  width               : 100%;
+  position            : fixed;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-aboutclaire .bp1-footer .bp1-background {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 122px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-aboutclaire .bp1-footer .bp1-backlink {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : 43px;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11.32%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.bp1-aboutclaire .bp1-footer .bp1-backlink:hover {
+  filter              : hue-rotate(40deg);
+}
+.bp1-aboutclaire .bp1-footer .bp1-backlink .bp1-text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 34.0px;
+  color               : rgba(255, 152, 128, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.bp1-aboutclaire .bp1-footer .bp1-backlink .bp1-line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 13px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-aboutclaire .bp1-footer .bp1-backlink .bp1-line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 4px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-aboutclaire .bp1-footer .bp1-backlink .bp1-line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp3-aboutclaire1 {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 1181px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-aboutclaire1 .bp3-aboutimg1258 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 522px;
+  height              : 258px;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21.22%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp3-aboutclaire1 .bp3-claireisauxdesig {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : auto;
+  width               : 57.55%;
+  position            : absolute;
+  margin              : 0;
+  left                : 21.22%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(44, 44, 44, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.bp3-aboutclaire1 .bp3-claireisauxdesig .bp3-span1 {
+  line-height         : 45.0px;
+}
+.bp3-aboutclaire1 .bp3-claireisauxdesig .bp3-span2 {
+  font-family         : "AppleColorEmoji", Helvetica, Arial, serif;
+  line-height         : 47.0px;
+}
+.bp3-aboutclaire1 .bp3-asadesignermyin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 217px;
+  height              : auto;
+  width               : 57.55%;
+  position            : absolute;
+  margin              : 0;
+  left                : 21.22%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(44, 44, 44, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp3-aboutclaire1 .bp3-stackedgroup {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : row;
+  align-items         : center;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 457px;
+  height              : 35px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 21.22%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp3-aboutclaire1 .bp3-stackedgroup .bp3-groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 35px;
+  margin              : 0;
+  width               : 93px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.bp3-aboutclaire1 .bp3-stackedgroup .bp3-groupcopy:hover {
+  filter              : hue-rotate(40deg);
+}
+.bp3-aboutclaire1 .bp3-stackedgroup .bp3-groupcopy .bp3-resum351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(182, 128, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp3-aboutclaire1 .bp3-stackedgroup .bp3-groupcopy .bp3-rectangle {
+  background-color    : rgba(182, 128, 255, 1.0);
+  top                 : 31px;
+  height              : 4px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp3-aboutclaire1 .bp3-stackedgroup .bp3-group {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 35px;
+  margin              : 0 0 0 24px;
+  width               : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.bp3-aboutclaire1 .bp3-stackedgroup .bp3-group:hover {
+  filter              : hue-rotate(40deg);
+}
+.bp3-aboutclaire1 .bp3-stackedgroup .bp3-group .bp3-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(182, 128, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp3-aboutclaire1 .bp3-stackedgroup .bp3-group .bp3-rectangle {
+  background-color    : rgba(182, 128, 255, 1.0);
+  top                 : 31px;
+  height              : 4px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp3-aboutclaire1 .bp3-footer {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0px;
+  height              : 122px;
+  width               : 100%;
+  position            : fixed;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp3-aboutclaire1 .bp3-footer .bp3-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  bottom              : 0px;
+  height              : 122px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp3-aboutclaire1 .bp3-footer .bp3-groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : 43px;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5.86%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.bp3-aboutclaire1 .bp3-footer .bp3-groupcopy:hover {
+  filter              : hue-rotate(40deg);
+}
+.bp3-aboutclaire1 .bp3-footer .bp3-groupcopy .bp3-takemehome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 34.0px;
+  color               : rgba(255, 152, 128, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.bp3-aboutclaire1 .bp3-footer .bp3-groupcopy .bp3-line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 13px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp3-aboutclaire1 .bp3-footer .bp3-groupcopy .bp3-line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 4px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp3-aboutclaire1 .bp3-footer .bp3-groupcopy .bp3-line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp2-aboutclaire2 {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-aboutclaire2 .bp2-aboutimg1258 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 54.00%;
+  top                 : 124px;
+  height              : 258px;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-aboutclaire2 .bp2-claireisauxdesig {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : auto;
+  width               : 44.24%;
+  position            : absolute;
+  margin              : 0;
+  left                : 50.00%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(44, 44, 44, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.bp2-aboutclaire2 .bp2-claireisauxdesig .bp2-span1 {
+  line-height         : 45.0px;
+}
+.bp2-aboutclaire2 .bp2-claireisauxdesig .bp2-span2 {
+  font-family         : "AppleColorEmoji", Helvetica, Arial, serif;
+  line-height         : 47.0px;
+}
+.bp2-aboutclaire2 .bp2-asadesignermyin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : auto;
+  width               : 44.24%;
+  position            : absolute;
+  margin              : 0;
+  left                : 50.00%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(44, 44, 44, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp2-aboutclaire2 .bp2-stackedgroup {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : row;
+  align-items         : center;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 496px;
+  height              : 35px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 50.00%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-aboutclaire2 .bp2-stackedgroup .bp2-groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 35px;
+  margin              : 0;
+  width               : 93px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.bp2-aboutclaire2 .bp2-stackedgroup .bp2-groupcopy:hover {
+  filter              : hue-rotate(40deg);
+}
+.bp2-aboutclaire2 .bp2-stackedgroup .bp2-groupcopy .bp2-resum351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(182, 128, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp2-aboutclaire2 .bp2-stackedgroup .bp2-groupcopy .bp2-rectangle {
+  background-color    : rgba(182, 128, 255, 1.0);
+  top                 : 31px;
+  height              : 4px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-aboutclaire2 .bp2-stackedgroup .bp2-group {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 35px;
+  margin              : 0 0 0 24px;
+  width               : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.bp2-aboutclaire2 .bp2-stackedgroup .bp2-group:hover {
+  filter              : hue-rotate(40deg);
+}
+.bp2-aboutclaire2 .bp2-stackedgroup .bp2-group .bp2-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(182, 128, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp2-aboutclaire2 .bp2-stackedgroup .bp2-group .bp2-rectangle {
+  background-color    : rgba(182, 128, 255, 1.0);
+  top                 : 31px;
+  height              : 4px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-aboutclaire2 .bp2-footer {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0px;
+  height              : 122px;
+  width               : 100%;
+  position            : fixed;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-aboutclaire2 .bp2-footer .bp2-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  bottom              : 0px;
+  height              : 122px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-aboutclaire2 .bp2-footer .bp2-groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : 43px;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3.26%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.bp2-aboutclaire2 .bp2-footer .bp2-groupcopy:hover {
+  filter              : hue-rotate(40deg);
+}
+.bp2-aboutclaire2 .bp2-footer .bp2-groupcopy .bp2-takemehome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 34.0px;
+  color               : rgba(255, 152, 128, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.bp2-aboutclaire2 .bp2-footer .bp2-groupcopy .bp2-line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 13px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-aboutclaire2 .bp2-footer .bp2-groupcopy .bp2-line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 4px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-aboutclaire2 .bp2-footer .bp2-groupcopy .bp2-line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp4-aboutclaire3 {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 927px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp4-aboutclaire3 .bp4-aboutimg1258 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 431px;
+  height              : 258px;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4.69%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-aboutclaire3 .bp4-claireisauxdesig {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 78px;
+  height              : auto;
+  width               : 90.31%;
+  position            : absolute;
+  margin              : 0;
+  left                : 4.69%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(44, 44, 44, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp4-aboutclaire3 .bp4-claireisauxdesig .bp4-span1 {
+  line-height         : 30.0px;
+}
+.bp4-aboutclaire3 .bp4-claireisauxdesig .bp4-span2 {
+  font-family         : "AppleColorEmoji", Helvetica, Arial, serif;
+  line-height         : 32.0px;
+}
+.bp4-aboutclaire3 .bp4-asadesignermyin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 164px;
+  height              : auto;
+  width               : 90.31%;
+  position            : absolute;
+  margin              : 0;
+  left                : 4.69%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(44, 44, 44, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp4-aboutclaire3 .bp4-stackedgroup {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : row;
+  align-items         : center;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 372px;
+  height              : 35px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4.69%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-aboutclaire3 .bp4-stackedgroup .bp4-groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 35px;
+  margin              : 0;
+  width               : 93px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.bp4-aboutclaire3 .bp4-stackedgroup .bp4-groupcopy:hover {
+  filter              : hue-rotate(40deg);
+}
+.bp4-aboutclaire3 .bp4-stackedgroup .bp4-groupcopy .bp4-resum351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(182, 128, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp4-aboutclaire3 .bp4-stackedgroup .bp4-groupcopy .bp4-rectangle {
+  background-color    : rgba(182, 128, 255, 1.0);
+  top                 : 31px;
+  height              : 4px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-aboutclaire3 .bp4-stackedgroup .bp4-group {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 35px;
+  margin              : 0 0 0 24px;
+  width               : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.bp4-aboutclaire3 .bp4-stackedgroup .bp4-group:hover {
+  filter              : hue-rotate(40deg);
+}
+.bp4-aboutclaire3 .bp4-stackedgroup .bp4-group .bp4-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(182, 128, 255, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp4-aboutclaire3 .bp4-stackedgroup .bp4-group .bp4-rectangle {
+  background-color    : rgba(182, 128, 255, 1.0);
+  top                 : 31px;
+  height              : 4px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-aboutclaire3 .bp4-footer {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0px;
+  height              : 122px;
+  width               : 100%;
+  position            : fixed;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-aboutclaire3 .bp4-footer .bp4-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  bottom              : 0px;
+  height              : 122px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-aboutclaire3 .bp4-footer .bp4-groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 30px;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4.69%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.bp4-aboutclaire3 .bp4-footer .bp4-groupcopy:hover {
+  filter              : hue-rotate(40deg);
+}
+.bp4-aboutclaire3 .bp4-footer .bp4-groupcopy .bp4-takemehome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 152, 128, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp4-aboutclaire3 .bp4-footer .bp4-groupcopy .bp4-line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 13px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-aboutclaire3 .bp4-footer .bp4-groupcopy .bp4-line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 4px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp4-aboutclaire3 .bp4-footer .bp4-groupcopy .bp4-line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@media screen and (max-width: 767px) {
+  .bp4-aboutclaire3 {
+    display             : block;
+  }
+  .bp3-aboutclaire1 {
+    display             : none;
+  }
+  .bp2-aboutclaire2 {
+    display             : none;
+  }
+  .bp1-aboutclaire {
+    display             : none;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .bp4-aboutclaire3 {
+    display             : none;
+  }
+  .bp3-aboutclaire1 {
+    display             : block;
+  }
+  .bp2-aboutclaire2 {
+    display             : none;
+  }
+  .bp1-aboutclaire {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  .bp4-aboutclaire3 {
+    display             : none;
+  }
+  .bp3-aboutclaire1 {
+    display             : none;
+  }
+  .bp2-aboutclaire2 {
+    display             : block;
+  }
+  .bp1-aboutclaire {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .bp4-aboutclaire3 {
+    display             : none;
+  }
+  .bp3-aboutclaire1 {
+    display             : none;
+  }
+  .bp2-aboutclaire2 {
+    display             : none;
+  }
+  .bp1-aboutclaire {
+    display             : block;
+  }
+}

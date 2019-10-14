@@ -1,0 +1,460 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:500');
+
+@font-face {
+                          font-family: "LexendDeca-Regular";
+                          src: url('../fonts/LexendDeca-Regular.ttf') format("truetype");
+                        }
+                        
+.plazaintro3 {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-animate-enter22 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter22-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter22-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter22-frames 0.40000000596s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter22-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter22-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter22-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter22-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter22-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter23 {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-animate-enter23-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter23-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter23-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter23-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter23-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-moz-keyframes anima-animate-enter23-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@-o-keyframes anima-animate-enter23-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+@keyframes anima-animate-enter23-frames {
+  0%
+   
+  {
+  opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+    }
+}
+.plazaintro3 .stackedgroup {
+  display             : flex;
+  justify-content     : flex-start;
+  flex-direction      : column;
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : auto;
+  width               : 44.34%;
+  position            : absolute;
+  margin              : 0;
+  left                : 27.83%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.plazaintro3 .stackedgroup .logopyr {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 48px;
+  margin              : 0;
+  width               : 100%;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.plazaintro3 .stackedgroup .logopyr .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 117px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.plazaintro3 .stackedgroup .logopyr .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.plazaintro3 .stackedgroup .plazaisamobilecl {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  margin              : 32px 0 0 0;
+  width               : 100%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 34.0px;
+  color               : rgba(44, 44, 44, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.plazaintro3 .stackedgroup .group {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 49px;
+  margin              : 32px 0 0 0;
+  width               : 233px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.plazaintro3 .stackedgroup .group:hover {
+  filter              : hue-rotate(40deg);
+}
+.plazaintro3 .stackedgroup .group .readmore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 34.0px;
+  color               : rgba(182, 128, 255, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.plazaintro3 .stackedgroup .group .rectangle {
+  background-color    : rgba(182, 128, 255, 1.0);
+  top                 : 43px;
+  height              : 6px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.plazaintro3 .footer {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0px;
+  height              : 122px;
+  width               : 100%;
+  position            : fixed;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.plazaintro3 .footer .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  bottom              : 0px;
+  height              : 122px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.plazaintro3 .footer .groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : 43px;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3.26%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.plazaintro3 .footer .groupcopy:hover {
+  filter              : hue-rotate(40deg);
+}
+.plazaintro3 .footer .groupcopy .takemehome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
+  font-size           : 34.0px;
+  color               : rgba(255, 152, 128, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.plazaintro3 .footer .groupcopy .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 13px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.plazaintro3 .footer .groupcopy .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 4px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.plazaintro3 .footer .groupcopy .line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
