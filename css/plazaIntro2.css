@@ -7,9 +7,9 @@
                         
 .plazaintro2 {
   width               : 100%;
-  min-width           : 320px;
+  min-width           : 768px;
   height              : 100vh;
-  min-height          : 1024px;
+  min-height          : 769px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -32,20 +32,20 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.anima-animate-enter12 {
+.anima-animate-enter18 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : anima-animate-enter12-frames 0.40000000596s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter12-frames 0.40000000596s ease-in-out 1 normal forwards;
-  -o-animation        : anima-animate-enter12-frames 0.40000000596s ease-in-out 1 normal forwards;
-  animation           : anima-animate-enter12-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter18-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter18-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter18-frames 0.40000000596s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter18-frames 0.40000000596s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter12-frames {
+@-webkit-keyframes anima-animate-enter18-frames {
   0%
    
   {
@@ -61,7 +61,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes anima-animate-enter12-frames {
+@-moz-keyframes anima-animate-enter18-frames {
   0%
    
   {
@@ -77,7 +77,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes anima-animate-enter12-frames {
+@-o-keyframes anima-animate-enter18-frames {
   0%
    
   {
@@ -93,7 +93,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes anima-animate-enter12-frames {
+@keyframes anima-animate-enter18-frames {
   0%
    
   {
@@ -109,19 +109,19 @@ div {
   transform: translate(0,0);
     }
 }
-.anima-animate-enter13 {
+.anima-animate-enter19 {
   opacity             : 0;
   display             : block;
-  -webkit-animation   : anima-animate-enter13-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-animate-enter13-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -o-animation        : anima-animate-enter13-frames 0.20000000298s ease-in-out 1 normal forwards;
-  animation           : anima-animate-enter13-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation   : anima-animate-enter19-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter19-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter19-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter19-frames 0.20000000298s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes anima-animate-enter13-frames {
+@-webkit-keyframes anima-animate-enter19-frames {
   0%
    
   {
@@ -135,7 +135,7 @@ div {
   opacity: 1;
     }
 }
-@-moz-keyframes anima-animate-enter13-frames {
+@-moz-keyframes anima-animate-enter19-frames {
   0%
    
   {
@@ -149,7 +149,7 @@ div {
   opacity: 1;
     }
 }
-@-o-keyframes anima-animate-enter13-frames {
+@-o-keyframes anima-animate-enter19-frames {
   0%
    
   {
@@ -163,7 +163,7 @@ div {
   opacity: 1;
     }
 }
-@keyframes anima-animate-enter13-frames {
+@keyframes anima-animate-enter19-frames {
   0%
    
   {
@@ -185,10 +185,10 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 96px;
   height              : auto;
-  width               : 90.60%;
+  width               : 58.00%;
   position            : absolute;
   margin              : 0;
-  left                : 4.70%;
+  left                : 21.00%;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -196,7 +196,7 @@ div {
 .plazaintro2 .stackedgroup .logopyr {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : 48px;
+  height              : 51px;
   margin              : 0;
   width               : 100%;
   overflow            : hidden;
@@ -207,8 +207,8 @@ div {
 .plazaintro2 .stackedgroup .logopyr .background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 48px;
-  width               : 68px;
+  height              : 51px;
+  width               : 113px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -218,7 +218,7 @@ div {
 }
 .plazaintro2 .stackedgroup .logopyr .bitmap {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9px;
+  top                 : 11px;
   height              : 30px;
   width               : 30px;
   position            : absolute;
@@ -238,17 +238,17 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
-  font-size           : 24.0px;
+  font-size           : 34.0px;
   color               : rgba(44, 44, 44, 1.0);
   text-align          : left;
-  line-height         : 30.0px;
+  line-height         : 43.0px;
 }
 .plazaintro2 .stackedgroup .group {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : 39px;
+  height              : 53px;
   margin              : 32px 0 0 0;
-  width               : 130px;
+  width               : 185px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -269,16 +269,16 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
-  font-size           : 24.0px;
+  font-size           : 34.0px;
   color               : rgba(182, 128, 255, 1.0);
   text-align          : left;
-  line-height         : 30.0px;
+  line-height         : 43.0px;
 }
 .plazaintro2 .stackedgroup .group .rectangle {
   background-color    : rgba(182, 128, 255, 1.0);
-  top                 : 33px;
-  height              : 6px;
-  width               : 130px;
+  top                 : 43px;
+  height              : 10px;
+  width               : 179px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -312,12 +312,12 @@ div {
 }
 .plazaintro2 .footer .groupcopy {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 50px;
-  height              : 30px;
-  width               : 205px;
+  top                 : 40px;
+  height              : 43px;
+  width               : 275px;
   position            : absolute;
   margin              : 0;
-  left                : 4.69%;
+  left                : 5.86%;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -338,14 +338,14 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
-  font-size           : 24.0px;
+  font-size           : 34.0px;
   color               : rgba(255, 152, 128, 1.0);
   text-align          : left;
-  line-height         : 30.0px;
+  line-height         : 43.0px;
 }
 .plazaintro2 .footer .groupcopy .line {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1px;
+  top                 : 11px;
   height              : 13px;
   width               : 14px;
   position            : absolute;
@@ -357,7 +357,7 @@ div {
 }
 .plazaintro2 .footer .groupcopy .line1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
+  top                 : 21px;
   height              : 4px;
   width               : 29px;
   position            : absolute;
@@ -369,7 +369,7 @@ div {
 }
 .plazaintro2 .footer .groupcopy .line2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
+  top                 : 21px;
   height              : 13px;
   width               : 13px;
   position            : absolute;

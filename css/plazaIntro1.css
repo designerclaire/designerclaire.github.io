@@ -7,9 +7,9 @@
                         
 .plazaintro1 {
   width               : 100%;
-  min-width           : 1440px;
+  min-width           : 320px;
   height              : 100vh;
-  min-height          : 1024px;
+  min-height          : 647px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -185,10 +185,10 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 96px;
   height              : auto;
-  width               : 37.40%;
+  width               : 90.60%;
   position            : absolute;
   margin              : 0;
-  left                : 31.30%;
+  left                : 4.70%;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -208,7 +208,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 48px;
-  width               : 165px;
+  width               : 68px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -238,17 +238,17 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
-  font-size           : 34.0px;
-  color               : rgba(12, 12, 12, 1.0);
+  font-size           : 24.0px;
+  color               : rgba(44, 44, 44, 1.0);
   text-align          : left;
-  line-height         : 43.0px;
+  line-height         : 30.0px;
 }
 .plazaintro1 .stackedgroup .group {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : 49px;
+  height              : 39px;
   margin              : 32px 0 0 0;
-  width               : 354px;
+  width               : 130px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -269,16 +269,16 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
-  font-size           : 34.0px;
+  font-size           : 24.0px;
   color               : rgba(182, 128, 255, 1.0);
   text-align          : left;
-  line-height         : 43.0px;
+  line-height         : 30.0px;
 }
 .plazaintro1 .stackedgroup .group .rectangle {
   background-color    : rgba(182, 128, 255, 1.0);
-  top                 : 43px;
+  top                 : 33px;
   height              : 6px;
-  width               : 179px;
+  width               : 130px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -293,16 +293,16 @@ div {
   width               : 100%;
   position            : fixed;
   margin              : 0;
-  left                : -1px;
+  left                : 0px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.plazaintro1 .footer .background {
+.plazaintro1 .footer .rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
+  bottom              : 0px;
   height              : 122px;
-  width               : 1440px;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -310,23 +310,23 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.plazaintro1 .footer .backlink {
+.plazaintro1 .footer .groupcopy {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 40px;
-  height              : 43px;
-  width               : 275px;
+  top                 : 50px;
+  height              : 30px;
+  width               : 205px;
   position            : absolute;
   margin              : 0;
-  left                : 11.32%;
+  left                : 4.69%;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.5s ease-in-out;
 }
-.plazaintro1 .footer .backlink:hover {
+.plazaintro1 .footer .groupcopy:hover {
   filter              : hue-rotate(40deg);
 }
-.plazaintro1 .footer .backlink .text {
+.plazaintro1 .footer .groupcopy .takemehome {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -338,14 +338,14 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
-  font-size           : 34.0px;
+  font-size           : 24.0px;
   color               : rgba(255, 152, 128, 1.0);
   text-align          : left;
-  line-height         : 43.0px;
+  line-height         : 30.0px;
 }
-.plazaintro1 .footer .backlink .line {
+.plazaintro1 .footer .groupcopy .line {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
+  top                 : 1px;
   height              : 13px;
   width               : 14px;
   position            : absolute;
@@ -355,9 +355,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.plazaintro1 .footer .backlink .line1 {
+.plazaintro1 .footer .groupcopy .line1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 21px;
+  top                 : 11px;
   height              : 4px;
   width               : 29px;
   position            : absolute;
@@ -367,9 +367,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.plazaintro1 .footer .backlink .line2 {
+.plazaintro1 .footer .groupcopy .line2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 21px;
+  top                 : 11px;
   height              : 13px;
   width               : 13px;
   position            : absolute;

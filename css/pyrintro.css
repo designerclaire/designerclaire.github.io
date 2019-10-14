@@ -5,11 +5,11 @@
                           src: url('../fonts/LexendDeca-Regular.ttf') format("truetype");
                         }
                         
-.bp2-pyrintro {
+.bp4-pyrintro {
   width               : 100%;
-  min-width           : 1024px;
+  min-width           : 320px;
   height              : 100vh;
-  min-height          : 1024px;
+  min-height          : 647px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -32,20 +32,20 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.bp2-anima-animate-enter {
+.bp4-anima-animate-enter {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : bp2-anima-animate-enter-frames 0.40000000596s ease-in-out 1 normal forwards;
-  -moz-animation      : bp2-anima-animate-enter-frames 0.40000000596s ease-in-out 1 normal forwards;
-  -o-animation        : bp2-anima-animate-enter-frames 0.40000000596s ease-in-out 1 normal forwards;
-  animation           : bp2-anima-animate-enter-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -webkit-animation   : bp4-anima-animate-enter-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -moz-animation      : bp4-anima-animate-enter-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -o-animation        : bp4-anima-animate-enter-frames 0.40000000596s ease-in-out 1 normal forwards;
+  animation           : bp4-anima-animate-enter-frames 0.40000000596s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes bp2-anima-animate-enter-frames {
+@-webkit-keyframes bp4-anima-animate-enter-frames {
   0%
    
   {
@@ -61,7 +61,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes bp2-anima-animate-enter-frames {
+@-moz-keyframes bp4-anima-animate-enter-frames {
   0%
    
   {
@@ -77,7 +77,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes bp2-anima-animate-enter-frames {
+@-o-keyframes bp4-anima-animate-enter-frames {
   0%
    
   {
@@ -93,7 +93,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes bp2-anima-animate-enter-frames {
+@keyframes bp4-anima-animate-enter-frames {
   0%
    
   {
@@ -109,19 +109,19 @@ div {
   transform: translate(0,0);
     }
 }
-.bp2-anima-animate-enter1 {
+.bp4-anima-animate-enter1 {
   opacity             : 0;
   display             : block;
-  -webkit-animation   : bp2-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -moz-animation      : bp2-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -o-animation        : bp2-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
-  animation           : bp2-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation   : bp4-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp4-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp4-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp4-anima-animate-enter1-frames 0.20000000298s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes bp2-anima-animate-enter1-frames {
+@-webkit-keyframes bp4-anima-animate-enter1-frames {
   0%
    
   {
@@ -135,7 +135,7 @@ div {
   opacity: 1;
     }
 }
-@-moz-keyframes bp2-anima-animate-enter1-frames {
+@-moz-keyframes bp4-anima-animate-enter1-frames {
   0%
    
   {
@@ -149,7 +149,7 @@ div {
   opacity: 1;
     }
 }
-@-o-keyframes bp2-anima-animate-enter1-frames {
+@-o-keyframes bp4-anima-animate-enter1-frames {
   0%
    
   {
@@ -163,7 +163,7 @@ div {
   opacity: 1;
     }
 }
-@keyframes bp2-anima-animate-enter1-frames {
+@keyframes bp4-anima-animate-enter1-frames {
   0%
    
   {
@@ -177,7 +177,7 @@ div {
   opacity: 1;
     }
 }
-.bp2-pyrintro .bp2-stackedgroup {
+.bp4-pyrintro .bp4-stackedgroup {
   display             : flex;
   justify-content     : flex-start;
   flex-direction      : column;
@@ -185,15 +185,15 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 96px;
   height              : auto;
-  width               : 44.34%;
+  width               : 90.60%;
   position            : absolute;
   margin              : 0;
-  left                : 27.83%;
+  left                : 4.70%;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp2-pyrintro .bp2-stackedgroup .bp2-logopyr {
+.bp4-pyrintro .bp4-stackedgroup .bp4-logopyr {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : 48px;
@@ -204,11 +204,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp2-pyrintro .bp2-stackedgroup .bp2-logopyr .bp2-background {
+.bp4-pyrintro .bp4-stackedgroup .bp4-logopyr .bp4-background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 48px;
-  width               : 83px;
+  width               : 48px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -216,37 +216,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp2-pyrintro .bp2-stackedgroup .bp2-logopyr .bp2-ph0neyourrep {
-  background-color    : rgba(255,255,255,0.0);
-  width               : 100%;
-  height              : auto;
-  pointer-events      : auto;
-  position            : relative;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Roboto Mono", Helvetica, Arial, serif;
-  font-weight         : 500;
-  font-style          : normal;
-  font-size           : 26.0px;
-  color               : rgba(21, 20, 23, 1.0);
-  text-align          : left;
-  letter-spacing      : 2.21px;
-  line-height         : 34.0px;
-}
-.bp2-pyrintro .bp2-stackedgroup .bp2-logopyr .bp2-ph0neyourrep-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 0;
-  height              : 100%;
-  width               : 254px;
-  justify-content     : center;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 48px;
-}
-.bp2-pyrintro .bp2-stackedgroup .bp2-logopyr .bp2-pyr {
+.bp4-pyrintro .bp4-stackedgroup .bp4-logopyr .bp4-pyr {
   background-color    : rgba(255,255,255,0.0);
   width               : 100%;
   height              : 26px;
@@ -256,7 +226,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp2-pyrintro .bp2-stackedgroup .bp2-logopyr .bp2-pyr-layout-container {
+.bp4-pyrintro .bp4-stackedgroup .bp4-logopyr .bp4-pyr-layout-container {
   pointer-events      : none;
   flex-direction      : column;
   top                 : 0;
@@ -268,7 +238,7 @@ div {
   display             : flex;
   left                : 0px;
 }
-.bp2-pyrintro .bp2-stackedgroup .bp2-logopyr .bp2-pyr .bp2-group1 {
+.bp4-pyrintro .bp4-stackedgroup .bp4-logopyr .bp4-pyr .bp4-group1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 26px;
@@ -280,7 +250,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp2-pyrintro .bp2-stackedgroup .bp2-phoneyourrepisa {
+.bp4-pyrintro .bp4-stackedgroup .bp4-phoneyourrepisa {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : auto;
@@ -290,26 +260,26 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
-  font-size           : 34.0px;
+  font-size           : 24.0px;
   color               : rgba(44, 44, 44, 1.0);
   text-align          : left;
-  line-height         : 43.0px;
+  line-height         : 30.0px;
 }
-.bp2-pyrintro .bp2-stackedgroup .bp2-group {
+.bp4-pyrintro .bp4-stackedgroup .bp4-group {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : 49px;
+  height              : 39px;
   margin              : 32px 0 0 0;
-  width               : 233px;
+  width               : 130px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.5s ease-in-out;
 }
-.bp2-pyrintro .bp2-stackedgroup .bp2-group:hover {
+.bp4-pyrintro .bp4-stackedgroup .bp4-group:hover {
   filter              : hue-rotate(40deg);
 }
-.bp2-pyrintro .bp2-stackedgroup .bp2-group .bp2-readmore {
+.bp4-pyrintro .bp4-stackedgroup .bp4-group .bp4-readmore {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -321,16 +291,16 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
-  font-size           : 34.0px;
+  font-size           : 24.0px;
   color               : rgba(182, 128, 255, 1.0);
   text-align          : left;
-  line-height         : 43.0px;
+  line-height         : 30.0px;
 }
-.bp2-pyrintro .bp2-stackedgroup .bp2-group .bp2-rectangle {
+.bp4-pyrintro .bp4-stackedgroup .bp4-group .bp4-rectangle {
   background-color    : rgba(182, 128, 255, 1.0);
-  top                 : 43px;
+  top                 : 33px;
   height              : 6px;
-  width               : 178px;
+  width               : 130px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -338,7 +308,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp2-pyrintro .bp2-footer {
+.bp4-pyrintro .bp4-footer {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 0px;
   height              : 122px;
@@ -350,7 +320,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp2-pyrintro .bp2-footer .bp2-rectangle {
+.bp4-pyrintro .bp4-footer .bp4-rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   bottom              : 0px;
   height              : 122px;
@@ -362,23 +332,23 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp2-pyrintro .bp2-footer .bp2-groupcopy {
+.bp4-pyrintro .bp4-footer .bp4-groupcopy {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 40px;
-  height              : 43px;
-  width               : 275px;
+  top                 : 50px;
+  height              : 30px;
+  width               : 205px;
   position            : absolute;
   margin              : 0;
-  left                : 3.26%;
+  left                : 4.69%;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.5s ease-in-out;
 }
-.bp2-pyrintro .bp2-footer .bp2-groupcopy:hover {
+.bp4-pyrintro .bp4-footer .bp4-groupcopy:hover {
   filter              : hue-rotate(40deg);
 }
-.bp2-pyrintro .bp2-footer .bp2-groupcopy .bp2-takemehome {
+.bp4-pyrintro .bp4-footer .bp4-groupcopy .bp4-takemehome {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -390,14 +360,14 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
-  font-size           : 34.0px;
+  font-size           : 24.0px;
   color               : rgba(255, 152, 128, 1.0);
   text-align          : left;
-  line-height         : 43.0px;
+  line-height         : 30.0px;
 }
-.bp2-pyrintro .bp2-footer .bp2-groupcopy .bp2-line {
+.bp4-pyrintro .bp4-footer .bp4-groupcopy .bp4-line {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
+  top                 : 1px;
   height              : 13px;
   width               : 14px;
   position            : absolute;
@@ -407,9 +377,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp2-pyrintro .bp2-footer .bp2-groupcopy .bp2-line1 {
+.bp4-pyrintro .bp4-footer .bp4-groupcopy .bp4-line1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 21px;
+  top                 : 11px;
   height              : 4px;
   width               : 29px;
   position            : absolute;
@@ -419,9 +389,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp2-pyrintro .bp2-footer .bp2-groupcopy .bp2-line2 {
+.bp4-pyrintro .bp4-footer .bp4-groupcopy .bp4-line2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 21px;
+  top                 : 11px;
   height              : 13px;
   width               : 13px;
   position            : absolute;
@@ -514,7 +484,7 @@ div {
   width               : 100%;
   min-width           : 768px;
   height              : 100vh;
-  min-height          : 1024px;
+  min-height          : 805px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -525,14 +495,90 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.bp3-anima-animate-enter3 {
+.bp3-anima-animate-enter2 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : bp3-anima-animate-enter3-frames 0.40000000596s ease-in-out 1 normal forwards;
-  -moz-animation      : bp3-anima-animate-enter3-frames 0.40000000596s ease-in-out 1 normal forwards;
-  -o-animation        : bp3-anima-animate-enter3-frames 0.40000000596s ease-in-out 1 normal forwards;
-  animation           : bp3-anima-animate-enter3-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -webkit-animation   : bp3-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -moz-animation      : bp3-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -o-animation        : bp3-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  animation           : bp3-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp3-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes bp3-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes bp3-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes bp3-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.bp3-anima-animate-enter3 {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : bp3-anima-animate-enter3-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp3-anima-animate-enter3-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp3-anima-animate-enter3-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp3-anima-animate-enter3-frames 0.20000000298s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
@@ -543,7 +589,6 @@ div {
    
   {
   opacity: 0;
-  transform: translate(0, 25px);
     }
   
     
@@ -551,7 +596,6 @@ div {
    
   {
   opacity: 1;
-  transform: translate(0,0);
     }
 }
 @-moz-keyframes bp3-anima-animate-enter3-frames {
@@ -559,7 +603,6 @@ div {
    
   {
   opacity: 0;
-  transform: translate(0, 25px);
     }
   
     
@@ -567,7 +610,6 @@ div {
    
   {
   opacity: 1;
-  transform: translate(0,0);
     }
 }
 @-o-keyframes bp3-anima-animate-enter3-frames {
@@ -575,7 +617,6 @@ div {
    
   {
   opacity: 0;
-  transform: translate(0, 25px);
     }
   
     
@@ -583,80 +624,9 @@ div {
    
   {
   opacity: 1;
-  transform: translate(0,0);
     }
 }
 @keyframes bp3-anima-animate-enter3-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: translate(0, 25px);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: translate(0,0);
-    }
-}
-.bp3-anima-animate-enter4 {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : bp3-anima-animate-enter4-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -moz-animation      : bp3-anima-animate-enter4-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -o-animation        : bp3-anima-animate-enter4-frames 0.20000000298s ease-in-out 1 normal forwards;
-  animation           : bp3-anima-animate-enter4-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -webkit-animation-delay: 0s;
-  -moz-animation-delay: 0s;
-  -o-animation-delay  : 0s;
-  animation-delay     : 0s;
-}
-@-webkit-keyframes bp3-anima-animate-enter4-frames {
-  0%
-   
-  {
-  opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-    }
-}
-@-moz-keyframes bp3-anima-animate-enter4-frames {
-  0%
-   
-  {
-  opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-    }
-}
-@-o-keyframes bp3-anima-animate-enter4-frames {
-  0%
-   
-  {
-  opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-    }
-}
-@keyframes bp3-anima-animate-enter4-frames {
   0%
    
   {
@@ -1007,7 +977,7 @@ div {
   width               : 100%;
   min-width           : 1440px;
   height              : 100vh;
-  min-height          : 1024px;
+  min-height          : 769px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -1018,14 +988,90 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.bp1-anima-animate-enter3 {
+.bp1-anima-animate-enter2 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : bp1-anima-animate-enter3-frames 0.40000000596s ease-in-out 1 normal forwards;
-  -moz-animation      : bp1-anima-animate-enter3-frames 0.40000000596s ease-in-out 1 normal forwards;
-  -o-animation        : bp1-anima-animate-enter3-frames 0.40000000596s ease-in-out 1 normal forwards;
-  animation           : bp1-anima-animate-enter3-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -webkit-animation   : bp1-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -moz-animation      : bp1-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -o-animation        : bp1-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  animation           : bp1-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes bp1-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes bp1-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes bp1-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes bp1-anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.bp1-anima-animate-enter3 {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : bp1-anima-animate-enter3-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp1-anima-animate-enter3-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp1-anima-animate-enter3-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp1-anima-animate-enter3-frames 0.20000000298s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
@@ -1036,7 +1082,6 @@ div {
    
   {
   opacity: 0;
-  transform: translate(0, 25px);
     }
   
     
@@ -1044,7 +1089,6 @@ div {
    
   {
   opacity: 1;
-  transform: translate(0,0);
     }
 }
 @-moz-keyframes bp1-anima-animate-enter3-frames {
@@ -1052,7 +1096,6 @@ div {
    
   {
   opacity: 0;
-  transform: translate(0, 25px);
     }
   
     
@@ -1060,7 +1103,6 @@ div {
    
   {
   opacity: 1;
-  transform: translate(0,0);
     }
 }
 @-o-keyframes bp1-anima-animate-enter3-frames {
@@ -1068,7 +1110,6 @@ div {
    
   {
   opacity: 0;
-  transform: translate(0, 25px);
     }
   
     
@@ -1076,80 +1117,9 @@ div {
    
   {
   opacity: 1;
-  transform: translate(0,0);
     }
 }
 @keyframes bp1-anima-animate-enter3-frames {
-  0%
-   
-  {
-  opacity: 0;
-  transform: translate(0, 25px);
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-  transform: translate(0,0);
-    }
-}
-.bp1-anima-animate-enter4 {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : bp1-anima-animate-enter4-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -moz-animation      : bp1-anima-animate-enter4-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -o-animation        : bp1-anima-animate-enter4-frames 0.20000000298s ease-in-out 1 normal forwards;
-  animation           : bp1-anima-animate-enter4-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -webkit-animation-delay: 0s;
-  -moz-animation-delay: 0s;
-  -o-animation-delay  : 0s;
-  animation-delay     : 0s;
-}
-@-webkit-keyframes bp1-anima-animate-enter4-frames {
-  0%
-   
-  {
-  opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-    }
-}
-@-moz-keyframes bp1-anima-animate-enter4-frames {
-  0%
-   
-  {
-  opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-    }
-}
-@-o-keyframes bp1-anima-animate-enter4-frames {
-  0%
-   
-  {
-  opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-  opacity: 1;
-    }
-}
-@keyframes bp1-anima-animate-enter4-frames {
   0%
    
   {
@@ -1496,11 +1466,11 @@ div {
       opacity: 1;
     }
 }
-.bp4-pyrintro3 {
+.bp2-pyrintro3 {
   width               : 100%;
-  min-width           : 320px;
+  min-width           : 1024px;
   height              : 100vh;
-  min-height          : 1024px;
+  min-height          : 778px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -1511,20 +1481,20 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.bp4-anima-animate-enter3 {
+.bp2-anima-animate-enter2 {
   opacity             : 0;
   transform           : translate(0, 25px);
   display             : block;
-  -webkit-animation   : bp4-anima-animate-enter3-frames 0.40000000596s ease-in-out 1 normal forwards;
-  -moz-animation      : bp4-anima-animate-enter3-frames 0.40000000596s ease-in-out 1 normal forwards;
-  -o-animation        : bp4-anima-animate-enter3-frames 0.40000000596s ease-in-out 1 normal forwards;
-  animation           : bp4-anima-animate-enter3-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -webkit-animation   : bp2-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -moz-animation      : bp2-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  -o-animation        : bp2-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
+  animation           : bp2-anima-animate-enter2-frames 0.40000000596s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes bp4-anima-animate-enter3-frames {
+@-webkit-keyframes bp2-anima-animate-enter2-frames {
   0%
    
   {
@@ -1540,7 +1510,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-moz-keyframes bp4-anima-animate-enter3-frames {
+@-moz-keyframes bp2-anima-animate-enter2-frames {
   0%
    
   {
@@ -1556,7 +1526,7 @@ div {
   transform: translate(0,0);
     }
 }
-@-o-keyframes bp4-anima-animate-enter3-frames {
+@-o-keyframes bp2-anima-animate-enter2-frames {
   0%
    
   {
@@ -1572,7 +1542,7 @@ div {
   transform: translate(0,0);
     }
 }
-@keyframes bp4-anima-animate-enter3-frames {
+@keyframes bp2-anima-animate-enter2-frames {
   0%
    
   {
@@ -1588,19 +1558,19 @@ div {
   transform: translate(0,0);
     }
 }
-.bp4-anima-animate-enter4 {
+.bp2-anima-animate-enter3 {
   opacity             : 0;
   display             : block;
-  -webkit-animation   : bp4-anima-animate-enter4-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -moz-animation      : bp4-anima-animate-enter4-frames 0.20000000298s ease-in-out 1 normal forwards;
-  -o-animation        : bp4-anima-animate-enter4-frames 0.20000000298s ease-in-out 1 normal forwards;
-  animation           : bp4-anima-animate-enter4-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -webkit-animation   : bp2-anima-animate-enter3-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -moz-animation      : bp2-anima-animate-enter3-frames 0.20000000298s ease-in-out 1 normal forwards;
+  -o-animation        : bp2-anima-animate-enter3-frames 0.20000000298s ease-in-out 1 normal forwards;
+  animation           : bp2-anima-animate-enter3-frames 0.20000000298s ease-in-out 1 normal forwards;
   -webkit-animation-delay: 0s;
   -moz-animation-delay: 0s;
   -o-animation-delay  : 0s;
   animation-delay     : 0s;
 }
-@-webkit-keyframes bp4-anima-animate-enter4-frames {
+@-webkit-keyframes bp2-anima-animate-enter3-frames {
   0%
    
   {
@@ -1614,7 +1584,7 @@ div {
   opacity: 1;
     }
 }
-@-moz-keyframes bp4-anima-animate-enter4-frames {
+@-moz-keyframes bp2-anima-animate-enter3-frames {
   0%
    
   {
@@ -1628,7 +1598,7 @@ div {
   opacity: 1;
     }
 }
-@-o-keyframes bp4-anima-animate-enter4-frames {
+@-o-keyframes bp2-anima-animate-enter3-frames {
   0%
    
   {
@@ -1642,7 +1612,7 @@ div {
   opacity: 1;
     }
 }
-@keyframes bp4-anima-animate-enter4-frames {
+@keyframes bp2-anima-animate-enter3-frames {
   0%
    
   {
@@ -1656,7 +1626,7 @@ div {
   opacity: 1;
     }
 }
-.bp4-pyrintro3 .bp4-stackedgroup {
+.bp2-pyrintro3 .bp2-stackedgroup {
   display             : flex;
   justify-content     : flex-start;
   flex-direction      : column;
@@ -1664,15 +1634,15 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 96px;
   height              : auto;
-  width               : 90.60%;
+  width               : 44.34%;
   position            : absolute;
   margin              : 0;
-  left                : 4.70%;
+  left                : 27.83%;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp4-pyrintro3 .bp4-stackedgroup .bp4-logopyr {
+.bp2-pyrintro3 .bp2-stackedgroup .bp2-logopyr {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : 48px;
@@ -1683,11 +1653,11 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp4-pyrintro3 .bp4-stackedgroup .bp4-logopyr .bp4-background {
+.bp2-pyrintro3 .bp2-stackedgroup .bp2-logopyr .bp2-background {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 48px;
-  width               : 48px;
+  width               : 83px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -1695,7 +1665,37 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp4-pyrintro3 .bp4-stackedgroup .bp4-logopyr .bp4-pyr {
+.bp2-pyrintro3 .bp2-stackedgroup .bp2-logopyr .bp2-ph0neyourrep {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 100%;
+  height              : auto;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto Mono", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 26.0px;
+  color               : rgba(21, 20, 23, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.21px;
+  line-height         : 34.0px;
+}
+.bp2-pyrintro3 .bp2-stackedgroup .bp2-logopyr .bp2-ph0neyourrep-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0;
+  height              : 100%;
+  width               : 254px;
+  justify-content     : center;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 48px;
+}
+.bp2-pyrintro3 .bp2-stackedgroup .bp2-logopyr .bp2-pyr {
   background-color    : rgba(255,255,255,0.0);
   width               : 100%;
   height              : 26px;
@@ -1705,7 +1705,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp4-pyrintro3 .bp4-stackedgroup .bp4-logopyr .bp4-pyr-layout-container {
+.bp2-pyrintro3 .bp2-stackedgroup .bp2-logopyr .bp2-pyr-layout-container {
   pointer-events      : none;
   flex-direction      : column;
   top                 : 0;
@@ -1717,7 +1717,7 @@ div {
   display             : flex;
   left                : 0px;
 }
-.bp4-pyrintro3 .bp4-stackedgroup .bp4-logopyr .bp4-pyr .bp4-group1 {
+.bp2-pyrintro3 .bp2-stackedgroup .bp2-logopyr .bp2-pyr .bp2-group1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 26px;
@@ -1729,7 +1729,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp4-pyrintro3 .bp4-stackedgroup .bp4-phoneyourrepisa {
+.bp2-pyrintro3 .bp2-stackedgroup .bp2-phoneyourrepisa {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : auto;
@@ -1739,26 +1739,26 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
-  font-size           : 24.0px;
+  font-size           : 34.0px;
   color               : rgba(44, 44, 44, 1.0);
   text-align          : left;
-  line-height         : 30.0px;
+  line-height         : 43.0px;
 }
-.bp4-pyrintro3 .bp4-stackedgroup .bp4-group {
+.bp2-pyrintro3 .bp2-stackedgroup .bp2-group {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
-  height              : 39px;
+  height              : 49px;
   margin              : 32px 0 0 0;
-  width               : 130px;
+  width               : 233px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.5s ease-in-out;
 }
-.bp4-pyrintro3 .bp4-stackedgroup .bp4-group:hover {
+.bp2-pyrintro3 .bp2-stackedgroup .bp2-group:hover {
   filter              : hue-rotate(40deg);
 }
-.bp4-pyrintro3 .bp4-stackedgroup .bp4-group .bp4-readmore {
+.bp2-pyrintro3 .bp2-stackedgroup .bp2-group .bp2-readmore {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -1770,16 +1770,16 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
-  font-size           : 24.0px;
+  font-size           : 34.0px;
   color               : rgba(182, 128, 255, 1.0);
   text-align          : left;
-  line-height         : 30.0px;
+  line-height         : 43.0px;
 }
-.bp4-pyrintro3 .bp4-stackedgroup .bp4-group .bp4-rectangle {
+.bp2-pyrintro3 .bp2-stackedgroup .bp2-group .bp2-rectangle {
   background-color    : rgba(182, 128, 255, 1.0);
-  top                 : 33px;
+  top                 : 43px;
   height              : 6px;
-  width               : 130px;
+  width               : 178px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -1787,7 +1787,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp4-pyrintro3 .bp4-footer {
+.bp2-pyrintro3 .bp2-footer {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 0px;
   height              : 122px;
@@ -1799,7 +1799,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp4-pyrintro3 .bp4-footer .bp4-rectangle {
+.bp2-pyrintro3 .bp2-footer .bp2-rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   bottom              : 0px;
   height              : 122px;
@@ -1811,23 +1811,23 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp4-pyrintro3 .bp4-footer .bp4-groupcopy {
+.bp2-pyrintro3 .bp2-footer .bp2-groupcopy {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 50px;
-  height              : 30px;
-  width               : 205px;
+  top                 : 40px;
+  height              : 43px;
+  width               : 275px;
   position            : absolute;
   margin              : 0;
-  left                : 4.69%;
+  left                : 3.26%;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.5s ease-in-out;
 }
-.bp4-pyrintro3 .bp4-footer .bp4-groupcopy:hover {
+.bp2-pyrintro3 .bp2-footer .bp2-groupcopy:hover {
   filter              : hue-rotate(40deg);
 }
-.bp4-pyrintro3 .bp4-footer .bp4-groupcopy .bp4-takemehome {
+.bp2-pyrintro3 .bp2-footer .bp2-groupcopy .bp2-takemehome {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -1839,14 +1839,14 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
-  font-size           : 24.0px;
+  font-size           : 34.0px;
   color               : rgba(255, 152, 128, 1.0);
   text-align          : left;
-  line-height         : 30.0px;
+  line-height         : 43.0px;
 }
-.bp4-pyrintro3 .bp4-footer .bp4-groupcopy .bp4-line {
+.bp2-pyrintro3 .bp2-footer .bp2-groupcopy .bp2-line {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1px;
+  top                 : 11px;
   height              : 13px;
   width               : 14px;
   position            : absolute;
@@ -1856,9 +1856,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp4-pyrintro3 .bp4-footer .bp4-groupcopy .bp4-line1 {
+.bp2-pyrintro3 .bp2-footer .bp2-groupcopy .bp2-line1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
+  top                 : 21px;
   height              : 4px;
   width               : 29px;
   position            : absolute;
@@ -1868,9 +1868,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.bp4-pyrintro3 .bp4-footer .bp4-groupcopy .bp4-line2 {
+.bp2-pyrintro3 .bp2-footer .bp2-groupcopy .bp2-line2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
+  top                 : 21px;
   height              : 13px;
   width               : 13px;
   position            : absolute;
@@ -1960,13 +1960,13 @@ div {
     }
 }
 @media screen and (max-width: 767px) {
-  .bp4-pyrintro3 {
+  .bp4-pyrintro {
     display             : block;
   }
   .bp3-pyrintro1 {
     display             : none;
   }
-  .bp2-pyrintro {
+  .bp2-pyrintro3 {
     display             : none;
   }
   .bp1-pyrintro2 {
@@ -1974,13 +1974,13 @@ div {
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .bp4-pyrintro3 {
+  .bp4-pyrintro {
     display             : none;
   }
   .bp3-pyrintro1 {
     display             : block;
   }
-  .bp2-pyrintro {
+  .bp2-pyrintro3 {
     display             : none;
   }
   .bp1-pyrintro2 {
@@ -1988,13 +1988,13 @@ div {
   }
 }
 @media screen and (min-width: 1024px) and (max-width: 1439px) {
-  .bp4-pyrintro3 {
+  .bp4-pyrintro {
     display             : none;
   }
   .bp3-pyrintro1 {
     display             : none;
   }
-  .bp2-pyrintro {
+  .bp2-pyrintro3 {
     display             : block;
   }
   .bp1-pyrintro2 {
@@ -2002,13 +2002,13 @@ div {
   }
 }
 @media screen and (min-width: 1440px) {
-  .bp4-pyrintro3 {
+  .bp4-pyrintro {
     display             : none;
   }
   .bp3-pyrintro1 {
     display             : none;
   }
-  .bp2-pyrintro {
+  .bp2-pyrintro3 {
     display             : none;
   }
   .bp1-pyrintro2 {

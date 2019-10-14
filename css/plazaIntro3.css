@@ -7,9 +7,9 @@
                         
 .plazaintro3 {
   width               : 100%;
-  min-width           : 1024px;
+  min-width           : 1440px;
   height              : 100vh;
-  min-height          : 1024px;
+  min-height          : 769px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -185,10 +185,10 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 96px;
   height              : auto;
-  width               : 44.34%;
+  width               : 37.40%;
   position            : absolute;
   margin              : 0;
-  left                : 27.83%;
+  left                : 31.30%;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -208,7 +208,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 48px;
-  width               : 117px;
+  width               : 165px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -239,7 +239,7 @@ div {
   transform           : rotate(0deg);
   font-family         : "LexendDeca-Regular", Helvetica, Arial, serif;
   font-size           : 34.0px;
-  color               : rgba(44, 44, 44, 1.0);
+  color               : rgba(12, 12, 12, 1.0);
   text-align          : left;
   line-height         : 43.0px;
 }
@@ -248,7 +248,7 @@ div {
   position            : relative;
   height              : 49px;
   margin              : 32px 0 0 0;
-  width               : 233px;
+  width               : 354px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -278,7 +278,7 @@ div {
   background-color    : rgba(182, 128, 255, 1.0);
   top                 : 43px;
   height              : 6px;
-  width               : 178px;
+  width               : 179px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -293,16 +293,16 @@ div {
   width               : 100%;
   position            : fixed;
   margin              : 0;
-  left                : 0px;
+  left                : -1px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.plazaintro3 .footer .rectangle {
+.plazaintro3 .footer .background {
   background-color    : rgba(255, 255, 255, 1.0);
-  bottom              : 0px;
+  top                 : 0px;
   height              : 122px;
-  width               : 100%;
+  width               : 1440px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -310,23 +310,23 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.plazaintro3 .footer .groupcopy {
+.plazaintro3 .footer .backlink {
   background-color    : rgba(255,255,255,0.0);
   top                 : 40px;
   height              : 43px;
   width               : 275px;
   position            : absolute;
   margin              : 0;
-  left                : 3.26%;
+  left                : 11.32%;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   transition          : all 0.5s ease-in-out;
 }
-.plazaintro3 .footer .groupcopy:hover {
+.plazaintro3 .footer .backlink:hover {
   filter              : hue-rotate(40deg);
 }
-.plazaintro3 .footer .groupcopy .takemehome {
+.plazaintro3 .footer .backlink .text {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -343,7 +343,7 @@ div {
   text-align          : left;
   line-height         : 43.0px;
 }
-.plazaintro3 .footer .groupcopy .line {
+.plazaintro3 .footer .backlink .line {
   background-color    : rgba(255,255,255,0.0);
   top                 : 11px;
   height              : 13px;
@@ -355,7 +355,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.plazaintro3 .footer .groupcopy .line1 {
+.plazaintro3 .footer .backlink .line1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 21px;
   height              : 4px;
@@ -367,7 +367,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.plazaintro3 .footer .groupcopy .line2 {
+.plazaintro3 .footer .backlink .line2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 21px;
   height              : 13px;
